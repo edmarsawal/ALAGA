@@ -2,7 +2,9 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 from pathlib import Path
 from PIL import Image, ImageTk
-
+# Before nyo po i run
+# Hi sir paki bash(type) po muna sa terminal nyo ito "python -m pip install Pillow" 
+# may image po kase kame thank you
 from database import authenticate_user
 import pages
 
